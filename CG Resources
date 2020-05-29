@@ -1,0 +1,525 @@
+/3/sources
+A list of free resources and other useful things for 3d artists
+
+Almost everything on this list should be free. That doesn't mean it's CC0, so if you're wary about copyright, it might be a good idea to check first.
+Some sites may require a signup, and some might be sites that are "free" but limit how much or what you can download.
+Sites section are also in no particular order. You'll have to find what works best for you
+
+
+Quick Jump (Ctrl+F then search number)
+--------------------------------------
+1.0 - PBR Textures
+   1.1 - Sites
+   1.2 - Collections
+
+2.0 - Materials (smart materials, etc.)
+   2.1 - Sites
+   2.2 - Collections
+   2.3 - Single Materials
+
+3.0 - Generic Textures (Non-PBR and Photo Textures)
+   3.1 - Sites
+   3.2 - Images, Stock Images, Background Images
+   3.3 - Decals and grunge
+
+4.0 - HDRI
+   4.1 - Sites
+   4.2 - Collections
+   4.3 - Single HDRI
+
+5.0 - Models
+   5.1 - Sites
+   5.2 - Collections
+   5.3 - 3d Scans
+   5.4 - Single Models
+   5.5 - Kitbash Assets
+
+6.0 - Brushes and Alphas
+   6.1 - Sites
+   6.2 - Collections
+
+7.0 - Tools and Plugins
+
+8.0 - References and Useful Links
+   8.1 - Useful websites
+   8.2 - Blueprints
+   8.3 - Lookdev
+
+9.0 - Tutorials and Learning Resources
+--------------------------------------
+
+
+
+1.0 PBR Textures
+------------------
+1.1 ***Sites***
+	https://texturehaven.com/
+	https://www.cgbookcase.com/
+	https://cc0textures.com/
+	https://www.poliigon.com/search?is_free=true
+	https://3dtextures.me/ 
+	https://patternpanda.org/library.html
+	https://freepbr.com/
+	https://cgmood.com/textures?category=materials&sort=free
+	https://www.textures.com/browse/pbr-materials/114558
+	https://www.sharetextures.com/
+	https://share.allegorithmic.com/
+	https://visualact.com/product-category/free-materials/
+	https://www.poliigon.com/search?type=texture&refine_by=assets-free
+	https://www.goodtextures.com/blog/22/pbr-texture-categories
+	https://quixel.com/megascans/library/free
+	https://www.texturer.com
+
+1.2 ***Collections***
+	30 PBR materials
+	https://gumroad.com/l/ekRhc
+
+	100 premium 4k materials for blender for free
+	https://gumroad.com/l/onelvxe-material-pipeline
+
+	Tree Bark Textures
+	https://gumroad.com/l/dabKi/freeforyou
+
+1.3 ***Single Textures***
+	4k Denim
+	https://gumroad.com/l/4kdenim
+
+	4K farm ground material
+	https://gumroad.com/l/BlgPW  
+
+	4K forest dirty ground material
+	https://gumroad.com/l/HfMIW  
+
+	4K stone ground material
+	https://gumroad.com/l/iRDFe  
+
+	4K gravel cobble material
+	https://gumroad.com/l/yLbWs  
+
+	4K forest rocky ground material
+	https://gumroad.com/l/QlAmk  
+
+	4K leather material
+	https://gumroad.com/l/nFTBI  
+
+	4K Highway road material
+	https://gumroad.com/l/UysD
+
+	Photoscanned Ground Materials
+	https://gumroad.com/l/FS4MP
+
+
+
+
+2.0 Materials (smart materials, etc.)
+------------------
+2.1 ***Sites***
+	https://patternpanda.org/packs.html
+	https://share.allegorithmic.com/
+	https://blendermada.com/
+	https://visualact.com/product-category/free-materials/
+	https://www.blendswap.com/blends/category/21
+
+2.2 ***Collections***
+	100 premium 4k materials for blender for free
+	https://gumroad.com/l/onelvxe-material-pipeline
+
+	Burning,Firey Chiseled & Stylised bark substance materials
+	https://gumroad.com/l/ddn07
+
+	Substance - Tree material, Dirt snow, Gold Nuggets, Desert cliff
+	https://gumroad.com/l/kJSe
+
+	Smart materials for weapons
+	https://80.lv/articles/free-smart-materials-for-weapons/
+
+	Assorted Materials 
+	https://gumroad.com/l/MuRQA 
+
+	Blender Procedural Shaders
+	https://gumroad.com/simonthommes
+
+	Weapon Smart Materials (NOT CURRENTLY AVAILABLE)
+	https://gumroad.com/l/aAdSa
+
+	More Assorted Materials
+	https://gumroad.com/g3d?sort=featured
+
+	Metal Materials and Cloth Generator
+	https://gumroad.com/maximeconquy
+
+2.3 ***Single Materials***
+	Peeling Paint
+	https://gumroad.com/l/saOWG
+
+	Plaster material
+	https://gumroad.com/l/Myeav
+
+	Smart wood texture
+	https://gumroad.com/l/PcWXd
+
+	Terracotta roof texture + substance
+	https://gumroad.com/l/YQCsU
+
+	Damaged Painted Wall - substance
+	https://gumroad.com/l/beVqT     
+
+	grunge/dirt decal generator  SP   
+	https://gumroad.com/l/hUEC  
+
+	polished rosewood material 
+	https://gumroad.com/l/fmMZH  
+
+	procedural snow for sp
+	https://gumroad.com/l/mOMaT 
+
+	Bark sp
+	https://gumroad.com/l/RZHf  
+
+	sci-fi wall sp  
+	https://gumroad.com/l/AVxfQ  
+
+	concrete with cracks sp 
+	https://gumroad.com/l/IUxUf  
+
+	metal paneling sp 
+	https://gumroad.com/l/TMGGQ  
+
+	moss sp 
+	https://gumroad.com/l/dcQLB  
+
+	fence sp 
+	https://gumroad.com/l/JWUo  
+
+	cloth generator sp  
+	https://gumroad.com/l/Dnmbz 
+
+	grease oil substance painter smart material
+	https://gumroad.com/l/HcBva  
+
+	4K scanned stone material
+	https://gumroad.com/l/PPZAp  
+
+	4K stone ground material
+	https://gumroad.com/l/qAauj 
+
+	OSL Parallax Occlusion Mapping Shader
+	https://www.racoon-artworks.de/?p=773
+
+
+3.0 Generic Textures (Non-PBR and Photo Textures)
+------------------
+3.1 ***Sites***
+	https://modelinghappy.com/free-textures
+	https://www.goodtextures.com/gallery 
+	https://texture.ninja/
+	http://texturelib.com/
+	https://www.textures.com/
+	https://www.sketchuptextureclub.com/textures
+	https://www.sketchuptextureclub.com/packs
+
+3.2 ***Images, Stock Images, Background Images***
+	https://unsplash.com/
+	https://pixabay.com/fr/
+	https://www.sitebuilderreport.com/stock-up
+	https://www.pexels.com/
+	https://librestock.com/
+	https://www.flickr.com/	
+
+3.3 **Decals and grunge**
+	Scratch Masks (Damage and Defects)
+	https://patternpanda.org/scratch.html
+
+	Assorted Decals +PSD
+	https://gumroad.com/l/CIUFZ
+
+
+
+
+4.0 HDRI
+------------------
+4.1 ***Sites***
+	https://hdrihaven.com/
+	https://patternpanda.org/hdri.html
+	http://noemotionhdrs.net/
+	https://www.poliigon.com/search?type=hdr&refine_by=assets-free
+	https://hdrmaps.com/freebies
+
+4.2 ***Collections***
+	Neon Manhattan night hdris
+	https://gumroad.com/l/QRERD 
+
+	85 hdris @ 10k x 5k
+	https://hdrmaps.com/freebies
+
+	Studio Set 1 and 2 
+	http://www.jahirulamin.com/environments/studiohdri-set1
+	http://www.jahirulamin.com/environments/studiohdri-set2
+
+4.3 ***Single HDRI***
+	Panel Light
+	http://www.jahirulamin.com/environments/panel-light-hdri
+
+
+
+
+5.0 Models
+------------------
+5.1 ***Sites***
+	https://www.blendswap.com/
+	https://free3d.com/
+	https://www.poliigon.com/search?type=model&refine_by=assets-free
+	https://www.turbosquid.com/Search/3D-Models/free
+	https://sketchfab.com/3d-models?features=downloadable
+	https://www.cgtrader.com/free-3d-models
+	https://3dwarehouse.sketchup.com/
+	https://www.bimobject.com/en/product
+	https://www.unrealengine.com/marketplace/en-US/profile/Epic+Games?count=20&priceRange=[0%2C0]
+	https://resources.blogscopia.com/category/models/
+	https://clara.io/library
+	https://www.bentanji.com/free-3d-models/
+	https://share.substance3d.com/libraries?by_category_type_id=5
+	https://www.sketchuptextureclub.com/3d-models
+	https://www.caddetails.com/bim-models
+	http://www.dmi-3d.net/index.html
+	https://www.theterraindomain.com/collections/greenbow-rocks
+	https://www.blankrepository.com/
+	https://3dexport.com/free-3d-models
+	http://www.cadnav.com/
+	http://www.e-interiors.net/eng/meubles_3/armoires-et-commodes_3/#
+	https://renderpeople.com/free-3d-people/
+	https://evermotion.org/shop/cat/423/free_products
+	https://grabcad.com/library
+
+
+5.2 ***Collections***
+	125 "everydays" .c4d files
+	https://gumroad.com/l/AnRnn
+
+	More "everydays" .c4d files 
+	https://gumroad.com/l/DQpQG
+
+	25 scans of statues from the Louvre museum
+	https://gumroad.com/l/xAQxj
+
+	Rigged Character Models
+	https://conceptartempire.com/free-blender-models-rigs/
+
+	Evergreen Trees
+	https://gumroad.com/l/proforestpack/freeforyou
+
+	Landscapes and Terrains
+	https://gumroad.com/l/terrainpack/freeforyou
+
+	Trees, Fruit, Landscapes, Bread and other models
+	https://mantissa.xyz/resources
+
+5.3 ***3d Scans***
+	Scans from the Smithsonian Museum
+	https://3d.si.edu/cc0?edan_q=*:*&edan_fq[]=online_media_type:%223D+Images%22
+	
+	Scans of people, includes rigged and animated models
+	https://renderpeople.com/free-3d-people/
+	
+	3d scans of sculptures and artifacts
+	https://www.myminifactory.com/scantheworld/	
+	http://threedscans.com/
+
+	CC0 Scans and models from various museums
+	https://sketchfab.com/nebulousflynn/collections/cc0
+
+5.4 ***Single Models***
+	Model for previewing materials
+	https://gumroad.com/l/pUCtI
+
+	3d Head Scan
+	https://www.3dscanstore.com/blog/Free-3D-Head-Model  
+
+5.5 ***Kitbash***
+	kitbash pack containig 414 single objects and 108 mesh groups
+	https://gumroad.com/l/HTJJk  
+
+	Joints, Structural, Wires, Hydraulics, Wires, Cameras/Sensors - Adrian Rutkowski
+	https://gumroad.com/adrianrutkowski
+
+	Booleans, Panels, Rounds, Vents, Small Parts - Riccardo Massironi
+	https://gumroad.com/riccardomassironi
+
+	Surface Parts, Hydraulics, Joints, Optics, Reactive Armor, Cables, Structural (DL in description)
+	https://www.artstation.com/artwork/kit-bash
+
+	Hard Surface Kitbash
+	https://gumroad.com/l/sVOXJ
+
+	Sci-Fi Kitbash
+	https://cubebrush.co/polyworkshop/products/audboa/free-sci-fi-kitbash-set-fusion-360-zbrush
+
+
+
+
+6.0 Brushes and Alphas
+------------------
+6.1 ***Sites***
+	https://share.substance3d.com/libraries?by_category_type_id=1
+	https://www.poliigon.com/search?type=brush&refine_by=assets-free
+
+6.2 ***Collections***
+	50 ZBrush Brushes, and 48 Alphas
+	https://gumroad.com/l/tJOlm
+
+	Hard Surface Brush Pack
+	https://gumroad.com/l/IspRo  
+
+	zbrush stylized rock brushes/alphas
+	https://gumroad.com/l/dWVI   
+
+	Lights stamps for SP
+	https://gumroad.com/l/fIKry
+
+	Zbrush rock brushes:
+	https://cubebrush.co/luisarmstrong3d/products/zywuhq/rocks-cracks-brushes
+
+	Assorted Photoshop Brushes
+	https://gumroad.com/l/pACug
+
+	Zbrush Alphas - Wood and Bark
+	https://gumroad.com/fredogm#WpspL
+
+	Zbrush Alphas - Ground
+	https://gumroad.com/fredogm#NvWFZ
+
+	Zbrush Alphas - Metal Surfaces
+	https://gumroad.com/fredogm#iHTAD 
+
+
+
+
+7.0 Tools and Plugins
+------------------
+	Meshroom - Free 3d Scanning software
+	https://alicevision.org/#meshroom
+
+	Materialize - Can create PBR textures (diffuse, normal, roughness etc.) from single images
+	http://www.boundingboxsoftware.com/materialize/
+
+	Gaea - A free terrain editor and erosion sculptor
+	https://quadspinner.com/
+
+	"Might be useful for UVW mapping"
+	http://www.wings3d.com/
+
+	In-Browser photo editor
+	https://www.photopea.com/?fbclid=IwAR2wgMtIsZCh1KlfCMlspuTXze6bJSxbrWblreYyXStIeprqGKsEdMC4umw
+
+	Blender Plugin edge tools to do things like set edge flow and set linear
+	https://github.com/BenjaminSauder/EdgeFlow
+ 
+	Allows you to directly copy paste between blender and maya
+	https://gumroad.com/l/dLYcO
+
+	Collection of 3d animal skulls you can rotate and it attempts to find matching images for the angle
+	https://x6ud.github.io/#/
+
+	interior mapping setup for Blender. Works in Eevee too
+	https://drive.google.com/file/d/1__oKWKutj21VbUt_hPEBP8LaH4H9OThq/view
+
+	Blender parallax occlusion mapping nodegroup
+	https://blenderartists.org/uploads/default/original/4X/7/2/7/727bf3d649254219cf02b4b6e23902ef26062086.blend
+
+	Spacescape - a free tool for creating space skyboxes with stars and nebulas.
+	http://alexcpeterson.com/spacescape/
+
+	Mesh Lab - High poly to Low Poly
+	http://www.meshlab.net/
+
+
+
+
+8.0 References and Useful Links
+------------------
+8.1 ***Useful Websites***
+	Freely Useable References and images
+	https://commons.wikimedia.org/wiki/Main_Page
+	
+	List of Free Resources
+	https://wiki.luxcorerender.org/External_Resources
+
+	Dimension Guide - Provides dimensions and other helpful information about many real life objects
+	https://www.dimensions.guide/
+
+	Terrain Party - Generates heightmaps from real world locations
+	http://terrain.party/
+
+	Topology References
+	https://imgur.com/a/dEWXP
+	https://imgur.com/a/n5R2b
+
+	18 GB of reference photos for environment design.
+	https://gumroad.com/l/reference
+
+	Panorama images of the universe from the Planck telescope.
+	http://astrog80.astro.cf.ac.uk/Planck/Planckoscope/download/
+
+	Aggregator site for all the various PBR sites:
+	http://textures.one/
+
+	360 Gigapixel Panoramas of cityscapes (useful for reference since you can zoom in super far)
+	https://360gigapixels.com
+
+	360 Panoramas of cities and other places
+	https://www.360cities.net/gigapixel_gallery
+
+	Useful list of material IoR values for specularity
+	https://pixelandpoly.com/ior.html
+
+8.2 ***Blueprints***
+	Various Blueprints (some paid, some free)
+	https://www.the-blueprints.com/
+	
+	Free blueprints for cars/aircraft/boats/weapons
+	https://drawingdatabase.com/
+	
+	Collection of Aircraft Blueprints
+	https://commons.wikimedia.org/wiki/User:Kaboldy/More_aircrafts
+
+8.3 ***Lookdev***
+	Prop Lookdev scene and Lighting Rig
+	http://www.jahirulamin.com/environments/studio-prop-lookdev-lighting-rig
+
+	Lookdev Props
+	http://www.jahirulamin.com/environments/look-development-and-lighting-props
+
+	Lookdev Studio Scene
+	http://www.jahirulamin.com/environments/studio-lookdev-lighting-environment-textured-btwzg
+
+	Shaderball lookdev set up for maya
+	https://www.artstation.com/artwork/wKveZ
+ 
+	Maya lookdev kit
+	https://dusankovic.com/blog/OMal/lookdev-kit
+
+
+
+
+9.0 Tutorials and Learning Resources
+------------------
+	List of houdini learning resources
+	https://pastebin.com/TJ5NRfTf
+
+	CG Cinematography course/info
+	https://chrisbrejon.com/cg-cinematography/
+
+	Free 3d courses (may be outdated)
+	https://www.3dbuzz.com/
+	
+	Arnold Rendering Blog - Tutorials and other info
+	https://arnold-rendering.com/
+
+	OSL in Production
+	https://www.racoon-artworks.de/?p=913
+
+	Deus Ex: Modular ‘One Texture’ Assembly Line Library Tutorial - Using a single texture for many assets
+	https://80.lv/articles/deus-ex-modular-one-texture-assembly-line-library-tutorial/
+
+	Game art and workflow tips/tricks
+	https://simonschreibt.de/
